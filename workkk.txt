@@ -1,0 +1,5 @@
+
+Change the symbols around the image circle
+change the name of the website
+change the emails and the testimonials
+check the vercel update stuff
