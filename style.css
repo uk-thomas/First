@@ -762,6 +762,11 @@ footer{
 
         transform: translateX(-50%);
     }
+    .home_img{
+        border-radius: 50%;
+        height: fit-content;
+        width: auto;
+    }
 /* ============================================ ABOUT ======================================== */
     .about-container{
         padding: var(--gap-3xl);
