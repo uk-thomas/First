@@ -762,10 +762,8 @@ footer{
 
         transform: translateX(-50%);
     }
-    .home_img{
-        border-radius: 50%;
-        height: fit-content;
-        width: auto;
+    .landing__circle__inner{
+        background-color: var(--clr-warning);
     }
 /* ============================================ ABOUT ======================================== */
     .about-container{
